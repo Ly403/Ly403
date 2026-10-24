@@ -3,7 +3,7 @@
 
 ### Biography
 
-**Yi Liu (or Liu Yi，刘毅)** is currently a first-year master's student of Computer Science and Technology at the [ADMIS Lab](https://admis-tongji.github.io/) in the [College of Computer Science and Technology](https://cs.tongji.edu.cn/) of [Tongji University](https://www.tongji.edu.cn/), under the supervision of [Associate Professor Wengen Li](https://admis-tongji.github.io/members/03wengen-li.html). 
+**Yi Liu (or Liu Yi，刘毅)** is currently a master's student of Computer Science and Technology at the [ADMIS Lab](https://admis-tongji.github.io/) in the [College of Computer Science and Technology](https://cs.tongji.edu.cn/) of [Tongji University](https://www.tongji.edu.cn/), under the supervision of [Associate Professor Wengen Li](https://admis-tongji.github.io/members/03wengen-li.html). 
 Prior to this, he obtained his Bachelor’s degree in Computer Science and Technology from the [College of Electronic and Information Engineering](https://see-en.tongji.edu.cn/) of [Tongji University](https://www.tongji.edu.cn/) in 2024. 🥳
 
 His research interests focus on **various generative models, with a specialization in diffusion models**.
