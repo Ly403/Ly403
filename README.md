@@ -23,6 +23,7 @@ While these goals remain ongoing pursuits, Yi Liu is actively engaged in advanci
 
 ### Open-Source Projects
 - [Effective Cloud Removal for Remote Sensing Images by an Improved Mean-Reverting Denoising Model with Elucidated Design Space](https://github.com/Ly403/EMRDM)
+- [Past as State, Present as Attention: Persistent-State Blockwise Flow Matching for Long-Horizon Co-Speech Motion Generation](https://github.com/Ly403/PASPA)
 
 ### Other Links
 - [Homepage](https://ly403.github.io/)
